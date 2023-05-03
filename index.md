@@ -1,4 +1,4 @@
-Here's Xiangrui at UQ.
+Here's Xiangrui at UQ. I started to create a blog through github.
 Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
 
