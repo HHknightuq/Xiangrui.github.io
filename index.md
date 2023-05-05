@@ -1,9 +1,11 @@
 Here's Xiangrui at UQ. I started to create a blog through github.
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog. 
 
 
 ![Image of Xiangrui](images/微信图片_20221027212252.jpg)
 
 ## Useful links
+https://distill.pub/2016/misread-tsne/
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+https://course.fast.ai/Lessons/lesson1.html
+
